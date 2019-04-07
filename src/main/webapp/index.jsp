@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1>Honeywell Portal</h1> 
+			<h1>Honeywell Portal..........VivekMate</h1> 
 		</header>
 
 		<div id="tabs">
@@ -109,7 +109,7 @@
 	</div >
 
 	<div class="container">
-		<footer> Copyright &copy; gamutgurus software services Pvt. Ltd. </footer>
+		<footer> Copyright &copy; honeywell technology solution Pvt. Ltd. </footer>
 	</div>
 
 </body>
