@@ -2,8 +2,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 <!-- this is a comment in xml -->	
-	<groupId>com.honeywell</groupId>
-	<artifactId>honeywell</artifactId>
+	<groupId>com.dell</groupId>
+	<artifactId>dell</artifactId>
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
 	
@@ -24,7 +24,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>honeywell</finalName>
+		<finalName>dell</finalName>
 	</build>
 	
 </project>
